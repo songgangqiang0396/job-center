@@ -1,0 +1,18 @@
+#maven ignore
+target/
+*.tar.gz
+*.jar
+*.zip
+*.tar
+*.war
+
+#idea ignore
+.idea/
+*.iml
+*.ipr
+*.iws
+
+#eclipse ignore
+.settings/
+*.project
+*.classpath
